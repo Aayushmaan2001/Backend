@@ -1,0 +1,4 @@
+loudinary.config({ 
+        cloud_name: 'ddj8quvij', 
+        api_key: '857578317912129', 
+        api_secret: '8vLbA3Bk-9noW5pPNMsLWwuDtYY'
